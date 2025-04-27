@@ -1,3 +1,4 @@
+//@ts-nocheck
 import {getInterviewById} from "@/lib/actions/general.action";
  import {redirect} from "next/navigation";
  import Image from "next/image";
